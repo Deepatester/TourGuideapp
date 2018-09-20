@@ -1,0 +1,37 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- First screen application theme. -->
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_MyTheme</item>
+    </style>
+
+    <!-- Style for a tab that displays a category name -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/tabIndicatorColor</item>
+        <item name="tabSelectedTextColor">@color/tabSelectedTextColor</item>
+        <item name="tabTextAppearance">@style/TabLayoutTextStyle</item>
+        <item name="tabMode">scrollable</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/textSize_TabLayoutTextStyle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tabLayoutTextStyle_Color</item>
+
+    </style>
+
+    <!-- Style for the text container -->
+
+</resources>

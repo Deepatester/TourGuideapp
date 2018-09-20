@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutHeight">66dp</dimen>
+    <dimen name="playHeight">24dp</dimen>
+    <dimen name="playWeight">24dp</dimen>
+    <dimen name="marginRight">16dp</dimen>
+    <dimen name="marginTop">20dp</dimen>
+    <dimen name="layoutWidth">0dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="textSize_title_list_item">18sp</dimen>
+    <dimen name="textSize_description_list_item">16sp</dimen>
+    <dimen name="textSize_TabLayoutTextStyle">16sp</dimen>
+    <dimen name="textSizeTitle">30sp</dimen>
+    <dimen name="textSizeDesc">18sp</dimen>
+    <dimen name="logoWidth">66dp</dimen>
+    <dimen name="textHeight">100dp</dimen>
+    </resources>

@@ -1,0 +1,380 @@
+<resources>
+    <string name="app_name">TourGuide app</string>
+    <string name="app_heading">Coventry City Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_home">Home</string>
+    <string name="category_food">Food-Drink</string>
+    <string name="category_accommodation">Accommodation</string>
+    <string name="category_places">Places</string>
+    <string name="Name">Name</string>
+    <string name="VisitCoventry">Visit Coventry</string>
+    <string name="talented">Talented families needed [News]</string>
+    <string name="underCroft">The Undercroft at St Marys Guildhall re-opens [News]</string>
+    <string name="pintOfScience">A Pint of Science Festival [News]</string>
+    <string name="freeFamily">Free family cycling event to return to city [News]</string>
+    <string name="biggestWeekend">Biggest Weekend - more names announced [News]</string>
+    <string name="coventry600">Coventry’s 600-year-old Monastery to be restored [News]</string>
+    <string name="cafe">cafe and light lunch</string>
+    <string name="fineDining">Fine Dining</string>
+    <string name="pubAndGrill">Pub and Grill</string>
+    <string name="internationalAsian">International-Asian</string>
+    <string name="internationalAmerican">International-American</string>
+    <string name="internationalEuropean">International-European</string>
+    <string name="artsAndTheatre">Arts and Theatre</string>
+    <string name="historyHeritage">History and heritage</string>
+    <string name="museumsandGalleries">museums and galleries</string>
+    <string name="parksAndGardens">Parks and Gardens</string>
+    <string name="sportsAndLeisure">Sports and Leisure</string>
+    <string name="bedAndBreakfast">Bed and Breakfast</string>
+    <string name="Hotels">Hotels</string>
+    <string name="selfCatering">Self Catering</string>
+    <string name="Spa">Spa</string>
+    <string name="campingAndGlamping">Camping and Glamping</string>
+    <string name="starRated">Star rated</string>
+    <string name="coventryCanalBasin">1) Coventry Canal Basin</string>
+    <string name="coventryCanalBasinDesc">Coventry Canal Basin is the ideal place to start out on several fascinating art trail treks through picturesque countryside. Look out for several informative fact boards and plaques along the routes highlighting some of Coventry’s rich industrial history and enjoy miles of traffic-free towpath walks.
+                        "\n"
+                        "Family friendly\n"
+                        "Free entry\n"
+                        "http://www.canalbasintrust.co.uk/</string>
+    <string name="albanyTheatre">2) Albany Theatre</string>
+    <string name="albanyTheatreDesc">
+                        "The Albany Theatre is truly a hidden gem in the heart of Coventry, with its impressive Art Deco-style theatre behind a superb façade of the old Coventry Technical College. Designed in 1919 and originally opened in 1935 the theatre recently reopened and regularly hosts live shows, comedy and tribute acts.\n"
+                        "\n"
+                        "Family friendly\n"
+                        "Conference facilities\n"
+                        "http://www.albanytheatre.co.uk</string>
+    <string name="astleyBookFarm">3) Astley Book Farm</string>
+    <string name="astleyBookFarmDesc">"With over 75,000 books stored all under one roof, this haven for literature lovers is a must-visit attraction and one of many hidden gems in the region. Ranges include antiquarian rare and out-of-print books, a huge range of fiction, comprehensive non-fiction sections, Children's Hayloft and the Ten Bob Barn. New books are added daily and the farm has gathered a solid following of visitors over the years. Open every day from 10am until 5pm, the farm also has many special offers running seasonally, as well as a coffee shop with log-burner serving freshly ground cappuccinos and cream teas.
+                      "\n"
+                        "Tearoom/Coffee shop on-site\n"
+                        "Family friendly\n"
+                        "http://www.astleybookfarm.com/</string>
+    <string name="criterionTheatre">4) Criterion Theatre</string>
+    <string name="criterionTheatreDesc">"\n"
+                        "For over fifty years the Criterion Theatre has entertained the people of Coventry and the surrounding area with productions ranging from classic drama and comedy to musicals (see our website for forthcoming events). Our inviting theatre bar (open to club members) is an attractive place for people to enjoy a quiet drink amongst friends. You can also visit us on the first Saturday morning of every month when you can enjoy fresh coffee, cakes and browse or buy second hand books.\n"
+                        "http://www.criteriontheatre.co.uk/"</string>
+    <string name="bagotCastle">1) Bagot’s Castle</string>
+    <string name="bagotCastleDesc">"Bagot’s Castle, in the village of Baginton on the outskirts of Coventry, is believed to originally been built in the 11th century, at the time of King Henry I. It was rebuilt around the late 14th century by Sir William Bagot, a distinguished nobleman of his time. All that remains are the ruins of this historic castle.
+                        "The Bluebells at Bagots Castle are a wonderful site to see - best last week in April and during the month of May. (Image attached).\n"
+                        "\n"
+                        "Bagots Castle arrange Guided Tours with a talk given by our Archaeologist as you walk around the site for History Groups, W.I. Walking Parties etc. price on request.\n"
+                        "\n"
+                        "We have a Children's Trail for younger and older children - an excellent way to learn about the history of the castle with a small gift at the end of the trail.\n"
+                        "We have 3 Bagot Goats and 3 Herdwick sheep which the children love and can guess their names.\n"
+                        "\n"
+                        "Family friendly\n"
+                        "http://www.bagotscastle.org.uk/</string>
+    <string name="blueBadgeGuidedTours">2) Blue Badge Guided Tours</string>
+    <string name="blueBadgeGuidedToursDesc">
+                        "Blue Badge Tourist Guide Roger Bailey offers guided tours for private groups across the Heart of England, both coach and walking. Covering Coventry, Stratford upon Avon, Warwick, Royal Leamington Spa and much more. Based in Coventry, he offers a variety of local tours covering many themes and is also a qualified Coventry Green Badge Tourist Guide. He can also help with familiarisation trips, hotel and airport transfers, meet and greet, support for conference delegates and shopping breaks.\n"
+                        "\n"
+                        "Family friendly\n"
+                        "Groups welcome\n"
+                        "http://www.bluebadgetouristguide.co.uk/</string>
+    <string name="britishMotorMuseum">1) British Motor Museum</string>
+    <string name="britishMotorMuseumDesc">"Fun for all the family whatever the weather!\n"
+                        "\n"
+                        "Explore the British Motor Museum, the largest collection of historic British cars in the newly refurbished Museum.\n"
+                        "\n"
+                        "Take a walk down the 'Time Road' and discover how both motoring and family life has changed through the decades including period music and memorable events such as the introduction of double yellow lines.\n"
+                        "\n"
+                        "Travel through 'Making British Cars' and see how influential the motor industry has been over the years and where it is heading in the future.\n"
+                        "\n"
+                        "Get 'Under The Skin' and unravel the mystery of how cars work with interactive exhibits. Experience how suspension has improved over time and compare the difference between rack and pin and power steering.\n"
+                        "\n"
+                        "Enjoy a free guided tour with one of the enthusiastic guides who will help bring the cars to life. There is also an onsite café serving hot and cold meals and snacks.\n"
+                        "\n"
+                        "Check our website for information on great school holiday activities and special weekend motoring events.\n"
+                        "\n"
+                        "Conference facilities\n"
+                        "Family friendly\n"
+                        "Full disabled access\n"
+                        "Groups welcome\n"
+                        "http://www.britishmotormuseum.co.uk/</string>
+    <string name="coventryTransportMuseum">2) Coventry Transport Museum</string>
+    <string name="coventryTransportMuseumDesc">
+                        "Explore Coventry Transport Museum and be whisked away into stories of real people, real passions and real hope. Discover how Coventry became the centre of the world’s motor and cycle industries, and get up close with the world’s biggest collection of British\n"
+                        "road transport, including the actual vehicles that defined some of history’s most important moments - including the fastest car in the world!\u200B\n"
+                        "\n"
+                        "Family friendly\n"
+                        "Free entry\n"
+                        "Full disabled access\n"
+                        "Groups welcome\n"
+                        "http://www.transport-museum.com</string>
+    <string name="coventryCathedralStMichael">3) Coventry Cathedral - St Michael</string>
+    <string name="coventryCathedralStMichaelDesc">" "St Michael’s Spire stands majestically in the heart of Coventry city centre. Forming part of the Old Cathedral and its magnificent ruins, the spire is a lasting reminder of the Blitz of November 14 1940. The building remains one of the most important international symbols of peace and reconciliation in the world, and is one of the city’s three remaining spires.\n"
+                        "\n"
+                        "http://www.coventrycathedral.org.uk</string>
+    <string name="charlecotePark">1) Charlecote Park</string>
+    <string name="charlecoteParkDesc">
+                        "Charlecote has been the home of the Lucy family since the 12th century, and their stories are told through countless portraits, treasures, Victorian objects and priceless collections from around the world. The gardens and parkland offer woodland and riverside walks, with large gatherings of fallow deer making it their home since Tudor times.\n"
+                        "\n"
+                        "Family friendly\n"
+                        "Full disabled access\n"
+                        "Garden on-site\n"
+                        "Groups welcome\n"
+                        "Restaurant\n"
+                        "http://www.nationaltrust.org.uk/charlecote-park</string>
+    <string name="arburyHall">2) Arbury Hall</string>
+    <string name="arburyHallDesc">Arbury Hall has been the seat of the Newdigate family for over 400 years now and is the ancestral home of Viscount and Viscountess Daventry. The beautiful Elizabethan house was built on the site of a 12th century Augustinian Priory. It was transformed in the 18th century to become the finest example of Gothic Revival architecture in the country.
+                        "\n"
+                        "Arbury Gardens cover approximately 20 acres. Some of this, especially in the vicinity of the Hall, is easily accessible in a wheelchair, but some of the gardens are only passable on foot and there are steep uneven slopes. Ground conditions can also determine access - grass may become soft in wet weather. The ground floor of the Hall is accessible to wheelchair users by the use of ramps. The Gallery on the first floor is not accessible to wheelchair users. \n"
+                        "\n"
+                        "Dogs allowed on leads in gardens only.\n"
+                        "\n"
+                        "http://www.arburyestate.co.uk/</string>
+    <string name="brandonMarshNatureCentre">Brandon Marsh Nature Centre</string>
+    <string name="brandonMarshNatureCentreDesc">"Brandon Marsh Nature Centre is the headquarters of the Warwickshire Wildlife Trust. Set in 220 acres, the Reserve, consists of large pools created by gravel extraction. The Visitor Centre is a great place to visit including a Tea Room and well stocked gift shop. Around the Centre you’ll find the orchard, mouse maze, mini-beast homes, bird watching hides, recycled garden and a newly designed sensory garden (link to sensory garden project page) as well as an under-cover picnic area. Then it's off to the Onyx Nature Trail which guides you around the wildlife habitats of the nature reserve.
+                        "\n"
+                        "Family friendly\n"
+                        "Groups welcome\n"
+                        "http://www.warwickshire-wildlife-trust.org.uk/</string>
+
+    <string name="alanHiggsCentre">1) Alan Higgs Centre</string>
+    <string name="alanHiggsCentreDesc">The Alan Higgs Centre was opened in 2004 as an £8million leisure centre that has been built to provide sports and leisure facilities for people living in the South East of Coventry. An extensive range of facilities for sport, exercise and recreational participation, the Alan Higgs Centre also incorporates specialist facilities such as indoor and outdoor 3G pitches, a BMX track, skate park and a natural play area.
+                        "\n"
+                        "Family friendly\n"
+                        "Full disabled access\n"
+                        "Tearoom/Coffee shop on-site\n"
+                        "Leisure facilities\n"
+                        "http://www.covsf.com</string>
+    <string name="coventrianNarrowBoat">2) Coventrian Narrow Boat</string>
+    <string name="coventrianNarrowBoatDesc">The ‘Coventrian’ narrow boat is owned and operated by The Living Environment Trust. The 25m long ‘Coventrian’ can hold up to 24 people seated or 39 standing. The narrow boat offers something for everyone: private cruises, dinner cruises, water taxi to the Ricoh Arena and corporate cruises. The Coventrian also offers staff; a bar and catering services; lights, sound systems; and karaoke machines.
+                        "\n"
+                        "http://covsf.com/coventrian/</string>
+    <string name="adventureSports">3) Adventure Sports</string>
+    <string name="adventureSportsDesc">
+                        "Adventure Sports is a 100 acre outdoor centre offering a huge range of activities for groups and individuals. From driving unique vehicles to clay pigeon shooting, paintballing, archery, Segways and Zorbing, there’s something for all ages to enjoy. Bring your family or come along with friends. Whatever your age, it is bound to be a day you won’t forget. Book online or for more information see the website.\n"
+                        "\n"
+                        "Conference facilities\n"
+                        "http://www.adventuresport.co.uk</string>
+    <string name="costaCoffeeCoventry">1) Costa Coffee Coventry City Centre</string>
+    <string name="costaCoffeeCoventryDesc">35-37 The Precinct, Coventry City Centre, CV1 1DD
+                        "http://www.costa.co.uk/</string>
+    <string name="cafeRougeCoventry">2) Cafe Rouge Coventry</string>
+    <string name="cafeRougeCoventryDesc">
+                        "No.2 Belgrade Plaza, Coventry City Centre, CV1 4AJ\n"
+                        "http://www.caferouge.co.uk/french-restaurant/coventry</string>
+    <string name="coffeeArchitects">3) Coffee Architects</string>
+    <string name="coffeeArchitectsDesc">39 Warwick Street - Leamington Spa, Warwickshire CV32 5JX - United Kingdom
+                        "\n"
+                        "http://www.coffeearchitects.com/</string>
+    <string name="creamsCafé"> 4) Creams Café</string>
+    <string name="creamsCaféDesc">
+                        "1 Swanswell Street, Coventry, CV1 5FZ\n"
+                        "http://www.creamscafe.com/</string>
+    <string name="drapersBar"> 5) Drapers Bar</string>
+    <string name="drapersBarDesc">
+                        "Earl Street, Coventry City Centre, CV1 5RU\n"
+                        "http://www.drapersbar.com/</string>
+    <string name="bill">6) Bills</string>
+    <string name="billDesc">
+                        "140-142 The Parade\n"
+                        "Leamington Spa, Warwickshire CV32 4AG\n"
+                        "\n"
+                        "https://bills-website.co.uk/restaurants/leamington-spa/</string>
+    <string name="frankieAndBenny"> 1) Frankie And Bennys</string>
+    <string name="frankieAndBennyDesc">
+                        "Cross Point Business Park, Gielgud Way, Coventry, CV2 2SZ\n"
+                        "http://www.frankieandbennys.com/</string>
+    <string name="fiveRivers"> 2) Five Rivers</string>
+    <string name="fiveRiversDesc">
+                        "20-22 Victoria Terrace, CV31 3AB\n"
+                        "http://www.fiveriversrestaurant.co.uk/</string>
+    <string name="court6"> 3) Court 6</string>
+    <string name="court6Desc">16 Spon Street, Coventry City Centre, CV1 3BA</string>
+    <string name="Habibi"> 4) Habibi</string>
+    <string name="HabibiDesc">
+                        "142 Far Gosford Street, Coventry, CV1 5DY"</string>
+    <string name="indianEdge"> 5) Indian Edge</string>
+    <string name="indianEdgeDesc">
+                        "50 Warwick Road, Kenilworth, CV8 1HH\n"
+                        "http://www.indian-edge.co.uk/</string>
+    <string name="buaLuang"> 6) Bua Luang</string>
+    <string name="buaLuangDesc">
+                        "Warwick Road,\n"
+                        "Kenilworth,\n"
+                        "CV8 1HD\n"
+                        "\n"
+                        "http://www.bua-luang.co.uk/</string>
+    <string name="thaiDusit"> 7) Thai Dusit</string>
+    <string name="thaiDusitDesc">
+                        "39 London Road, Coventry, CV1 2JP\n"
+                        "http://www.thaidusit.co.uk/coventry/home.php</string>
+    <string name="coxsYard"> 2) Coxs Yard</string>
+    <string name="coxsYardDesc">
+                        "Bridgefoot, Stratford-upon-Avon, CV37 6YY\n"
+                        "http://www.coxsyard.com/dining.html</string>
+    <string name="laCasaLoco"> 3) La Casa Loco</string>
+    <string name="laCasaLocoDesc">
+                        "Churchside Arcade, Little Church St, Rugby, CV21 3AW\n"
+                        "\n" "http://www.lacasaloco.co.uk/</string>
+    <string name="lasIguanasCoventry">4) Las Iguanas Coventry</string>
+    <string name="lasIguanasCoventryDesc">
+                        "Unit SU4, Cathedral Lanes Shopping Centre, Coventry City Centre, CV1 1LL\n"
+                        "http://www.iguanas.co.uk/book-now/coventry</string>
+    <string name="catalanTapas"> 1) Catalan Tapas</string>
+    <string name="catalanTapasDesc">
+                        "6 Jury Street, Warwick, CV34 4EW\n"
+                        "http://www.catalantapas.co.uk/</string>
+    <string name="bellaItalia"> 2) Bella Italia</string>
+    <string name="bellaItaliaDesc">
+                        "32 Wood St , Stratford-upon-Avon, CV37 6JG\n"
+                        "http://www.bellaitalia.co.uk/</string>
+    <string name="blueBistro"> 3) Blue Bistro</string>
+    <string name="blueBistroDesc">
+                        "21 Spon Street, Coventry City Centre, CV1 3BA\n"
+                        "http://www.blue-bistro.com/</string>
+    <string name="countessOfEvesham">4) Countess Of Evesham Restaurant Boat</string>
+    <string name="countessOfEveshamDesc">
+                        "PO Box 179, Stratford-upon-Avon, CV37 6ZG\n"
+                        "http://www.countessofevesham.co.uk/</string>
+    <string name="etnaRistorante">5) Etna Ristorante</string>
+    <string name="etnaRistoranteDesc">
+                        "54-57 Hertford Street, Coventry City Centre, CV1 1LB\n"
+                        "http://www.etnacoventry.co.uk/</string>
+    <string name="ashDownsGuestHouse">1) Ashdowns Guest House</string>
+    <string name="ashDownsGuestHouseDesc">
+                        "12 Regent Street, Coventry, CV1 3EP</string>
+    <string name="ardenGuestHouse">2) Arden Guest House</string>
+    <string name="ardenGuestHouseDesc">
+                         "20 Queens Road, Kenilworth, CV8 1JQ\n"
+                        "http://www.ardenkenilworth.co.uke</string>
+    <string name="ashleighGuestHouse">3) Ashleigh Guest House</string>
+    <string name="ashleighGuestHouseDesc">
+                        "17 Park Road, Coventry, CV1 2LE\n"
+                        "http://www.ashleighguesthouse.net</string>
+    <string name="barnacleHallBedAndBreakfast">4) Barnacle Hall Bed and Breakfast</string>
+    <string name="barnacleHallBedAndBreakfastDesc">
+                        "Shilton Lane, Shilton, Coventry, CV7 9LH\n"
+        "\n"  "http://www.barnaclehall.co.uk"</string>
+    <string name="avonlea">5) Avonlea</string>
+    <string name="avonleaDesc">
+                        "17 Park Road, Coventry, CV1 2LE\n"
+                        "http://www.avonlea.net</string>
+    <string name="bestWesternGrosvenorHotel">1) Best Western Grosvenor Hotel</string>
+    <string name="bestWesternGrosvenorHotelDesc">
+                        "Warwick Road, Stratford upon Avon, Stratford-upon-Avon, CV37 6YT\n"
+                        "http://www.bwgh.co.uk</string>
+    <string name="ashtonLodgeCountryHouse">2) Ashton Lodge Country House</string>
+    <string name="ashtonLodgeCountryHouseDesc">Street Ashton, Rugby, Stretton-under-Fosse, CV23 0PJ
+                        "http://www.ashtonlodgecountryhouse.com/</string>
+    <string name="bestWesternPeacockHotel">3) Best Western Peacock Hotel</string>
+    <string name="bestWesternPeacockHotelDesc">
+                        "149, Warwick Road, Kenilworth, Kenilworth, CV8 1HY\n"
+                        "http://www.peacockhotel.com"</string>
+    <string name="bestWesternPlusWindmillVillageHotel">4) Best Western Plus Windmill Village Hotel</string>
+    <string name="bestWesternPlusWindmillVillageHotelDesc">
+                        "Birmingham Road, Allesley, Coventry, CV5 9AL\n"
+                        "http://www.windmillvillagehotel.co.uk/</string>
+    <string name="coventryBinleyA46PremierInn">5) Coventry Binley A46 Premier Inn</string>
+    <string name="coventryBinleyA46PremierInnDesc">
+                "Rugby Road, Binley Woods, Coventry, CV3 2TA\n"
+                        "http://www.premierinn.com/</string>
+    <string name="cherryTreeCottage">1) Cherry Tree Cottage</string>
+    <string name="cherryTreeCottageDesc">
+                        "Old Rail Farm, Hurley Common, Atherstone, CV9 2LS\n"
+                        "http://www.exclusivelyuk.co.uk/</string>
+    <string name="furzenHillFarmCottages">2) Furzen Hill Farm Cottages</string>
+    <string name="furzenHillFarmCottagesDesc">
+                     "Coventry Road, Cubbington Heath, CV32 7UJ\n"
+                        "http://www.furzenhillfarmcottages.co.uk/</string>
+    <string name="coventryAreaAccommodationService">3) Coventry Area Accommodation Service</string>
+    <string name="coventryAreaAccommodationServiceDesc">
+                        "The Old Granary, Fillongley, Coventry, CV7 8PB. Our Coventry apartment in the city centre is CV1 4RB\n"
+                        "\n"
+                        "http://www.coventryselfcater.co.uk/</string>
+    <string name="coventryHomeServicedApartments">4) Coventry Home Serviced Apartments</string>
+    <string name="coventryHomeServicedApartmentsDesc">
+                        "9 Benedictine Court, Coventry, CV1 5SE\n"
+                        "http://www.coventryhome.co.uk/</string>
+    <string name="follyFarmSelfCaterings">5) Folly Farm Self Catering</string>
+    <string name="follyFarmSelfCateringsDesc">
+                        "Back Street, Ilmington, Shipston on Stour, Chipping Campden, CV36 4LJ\n"
+                        "http://www.follyfarm.co.uk/</string>
+    <string name="bosworthHallHotelandSpa">1) Bosworth Hall Hotel and Spag</string>
+    <string name="bosworthHallHotelandSpaDesc">
+                        "Market Bosworth, Warwickshire, Market Bosworth, CV13 0LP\n"
+                        "https://www.britanniahotels.com/hotels/bosworth-hall-hotel-spa</string>
+    <string name="chesfordGrange">3) Chesford Grange</string>
+    <string name="chesfordGrangeDesc">Kenilworth, nr Warwick, Kenilworth, CV8 2LD
+                        "http://www.qhotels.co.uk/</string>
+    <string name="hallmarkHotelTheWelcombe">4) Hallmark Hotel The Welcombe</string>
+    <string name="hallmarkHotelTheWelcombeDesc">
+                        "Warwick Road, Stratford-upon-Avon, CV37 0NR\n"
+                        "http://www.hallmarkhotels.co.uk/hotels/welcombe</string>
+    <string name="ardencoteManorHotel">5) Ardencote Manor Hotel</string>
+    <string name="ardencoteManorHotelDesc">
+                        "The Cumsey, Lye Green Road, Claverdon, Warwick, CV35 8LT\n"
+                        "http://www.ardencote.com</string>
+    <string name="macdonaldAlvestonManor">6) Macdonald Alveston Manor</string>
+    <string name="macdonaldAlvestonManorDesc">
+                        "Clopton Bridge, Banbury Road, Stratford-upon-Avon, CV37 7HP\n"
+                        "http://www.macdonaldhotels.co.uk/our-hotels/alveston</string>
+    <string name="harburyFieldsFarmTouringPark">1) Harbury Fields Farm Touring Park</string>
+    <string name="harburyFieldsFarmTouringParkDesc">
+                        "Evesham Road, Stratford-upon-Avon, Warwickshire\n"
+                        "CV37 9BH</string>
+    <string name="dodwellPark">2) Dodwell Park</string>
+    <string name="dodwellParkDesc">
+                        "Evesham Road, Stratford-upon-Avon, Warwickshire\n"
+                        "CV37 9BH</string>
+    <string name="islandMeadowCaravanPark">3) Island Meadow Caravan Park</string>
+    <string name="islandMeadowCaravanParkDesc">
+                        "Aston Cantlow\n"
+                        "Henley in Arden\n"
+                        "Warwickshire\n"
+                        "B95 6JP\n"
+                        "http://www.islandmeadowcaravanpark.co.uk/</string>
+    <string name="lodgeFarm">4) Lodge Farm</string>
+    <string name="lodgeFarmDesc">
+                        "Bilton Lane, Long Lawford, Rugby, CV23 9DU\n"
+                        "\n"
+                        "http://www.lodgefarm.com</string>
+    <string name="ettingtonParkHotel">1) Ettington Park Hotel</string>
+    <string name="ettingtonParkHotelDesc">
+                        "Alderminster, Stratford-upon-Avon, CV37 8BU\n"
+                        "http://www.handpickedhotels.co.uk.</string>
+    <string name="coombeAbbeyHotel">3) Coombe Abbey Hotel</string>
+    <string name="coombeAbbeyHotelDesc">
+                        "Brinklow Road, Binley, Coventry, CV3 2AB\n"
+                        "http://www.coombeabbey.com/</string>
+    <string name="talentedNews">"Are you from a talented family of singers or do you all play instruments? Don't miss out on the Family Orchestra and Chorus project as part of BBC Music's Biggest Weekend Fringe.The event is being run in association with the BBC Concert Orchestra and Coventry Music Education Hub and a few spaces are still left. The last date to apply is 24 April.The Coventry Family Orchestra and Chorus is an ensemble for all ages, instruments or ability, as well as singers. It’s a chance for families to make music together, joining members of the BBC Concert Orchestra in a series of fun, family-friendly workshops. You don’t need to be able to read music. You and your family will have the chance to work with members of the BBC Concert Orchestra to create a brand new piece of music, ready to perform to your friends and family. \n"
+        "It’s free to take part, and open to anyone aged seven and over. All participants under the age of 16 must be accompanied throughout by a parent or guardian aged 18 or above. To take part in this project you will need to commit to all the required dates and all those involved in these workshops and performance will be offered a ticket to the BBC Music’s Biggest Weekend.Download an application form and return it to music@coventry.gov.uk\u200B.l</string>
+    <string name="underCroftNews">The Undercroft at St Marys Guildhall re-opens after refurbishment.Located in the atmospheric vaulted undercroft of St Marys Guildhall, this newly refreshed café offers a relaxed setting for brunch, light snacks, hearty lunches, or a quick coffee from their revamped menu. Just a short stroll from Coventry’s central shopping areas, The Undercroft at St. Mary’s is a perfect place to unwind in the citys historic Cathedral Quarter.You can expect tasty dishes at competitive prices, in unique historic surroundings. The Undercroft offers a wide selection of freshly prepared food, cooked in the same medieval kitchens that have catered for royalty and civic dignitaries for nearly 700 years (with a few updates over time).The café is fully licensed, and we endeavour to use locally sourced and Fairtrade products where available. Children can choose from their own Mini Merchants menu, and high chairs are available for our youngest guests. Special dietary requirements can be catered for and vegetarian options are always included on our menu.</string>
+    <string name="pintOfScienceNews">Pint of Science Coventry brings scientists out of the lab and into your local pub!
+                        "The public science festival, Pint of Science, is coming to Coventry for the first time this year, with experts from the Universities of Warwick and Coventry talking about their research work in a selection of pubs and venues around the city.\n"
+                        "●       Head down to your local pub to hear talks on everything from making sunscreen to levitating diamonds\n"
+                        "●       More than 30 scientists to appear in city watering holes, as the worlds largest festival of public science talks arrives in Coventry\n"
+                        "●       Coventry to join nearly 300 cities around the world taking part in this global festival from the 14 – 16 May\n"
+                        "●       Tickets on sale from 9 April at pintofscience.co.uk/events/coventry\n"
+                        "Wednesday 11 April 2018: Tickets are now on sale for the world’s largest festival of public science talks, which will see 35 scientists from Warwick and Coventry universities take to the stage in pubs and venues across Coventry.\n"
+                        "\n" " </string>
+    <string name="freeFamilyNews">British Cycling and HSBC UK have announced they will be returning to Coventry in August.
+                        "HSBC UK Let’s Ride Coventry (formerly Sky Ride) will take place on Sunday 5 August, when six kilometres of city centre roads will be closed to motor traffic to give thousands of locals the perfect opportunity to explore their city on two wheels.This year’s event will be delivered in partnership with Coventry City Council and will have a strong community focus, linking up with local attractions including Coventry Transport Museum, The Herbert Art Gallery and Museum and Coventry Cathedral.Along the route there will be a range of local community groups, bike shops, local performers and giveaways, with participants encouraged to hop off their bikes and find out more.Julie Harrington, Chief Executive of British Cycling, said: “Last year we were blown away by the response of the thousands of local people who got on their bikes and joined us.“Along with HSBC UK and Coventry City Council, we are passionate about creating better cities for cycling, and events like HSBC UK Let’s Ride Coventry are a fantastic opportunity for people to get on their bike and take that first step towards making cycling a part of their everyday life.</string>
+    <string name="biggestWeekendNews">More names have been announced for BBC Music’s The Biggest Weekend in Coventry.
+                        "\u200BThe musical extravaganza takes place on 27 and 28 May in the city’s War Memorial Park and organisers today announced Turin Brakes, Rae Morris and Joe Dolmen for the Sunday, with Evelyn Glennie and the Jaguar Land Rover Band named for the Monday line-up.\n"
+                        "Sunday’s concert is sold out, with the line-up featuring performances from Liam Gallagher, Stereophonics, Tears for Fears, Paloma Faith, UB40 and more.\n"
+                        "Tickets are still available for Monday, which includes a line-up of Nigel Kennedy, Miloš, Eliza Carthy and The Wayward Band, GoGo Penguin and Angelique Kidjo</string>
+    <string name="coventry600News">The Charterhouse has been awarded a £4.3m National Lottery grant.One of Coventry’s finest medieval buildings will be restored as a major visitor attraction in time for City of Culture 2021 thanks to a multi-million pound National Lottery grant.
+                        "The Charterhouse is a Grade 1 Listed 14th century Carthusian monastery set in parkland along the River Sherbourne off London Road just outside the city centre. Historic Coventry Trust has been working in partnership with Coventry City Council on plans to restore the medieval building, its walled gardens and grounds since 2011. The award of a £4.3 million grant from the Heritage Lottery Fund (HLF) means that the Trust is now only £350,000 short of its £8 million target. The major grant will lead to the opening of a heritage visitor centre and educational attraction as well as the creation of the first 30 acres of the planned 70 acre Heritage Park.\n"
+                        "Ros Kerslake, Chief Executive of the Heritage Lottery Fund, said: “Charterhouse is a site steeped in heritage. From its origins as a medieval Carthusian monastery, to its subsequent associations with Richard II, the Wars of the Roses and 19th-century industrialists, it has a unique story to tell. \n"
+                        "“This National Lottery funding will allow this precious group of grade I listed buildings to be restored, and a welcoming visitor attraction to be created for the future.”\n"
+                        "The plans include creating inter-active displays charting the extensive history of The Charterhouse, which was founded by King Richard II in 1385, and the recreation of two monks’ cells set in the walled garden and a café. Future plans not yet funded include the restoration of the coach house as a wedding and conference venue. The economic impact of the project will add £3.5 million every year to the local economy when it opens to the public in 2020.\n"
+                        "Cllr Jim O’Boyle, Coventry Council Cabinet Member for Jobs and Regeneration, said: “This is fantastic news for the city. The Charterhouse project will secure access for local people to this amazing building for the first time in its 600 year history. \n"
+                        "“It will also be a major boost to tourism with huge potential for creating jobs for local people through the visitor economy. The Charterhouse is one of a number of projects that are going to put Coventry firmly on the tourist map in the run up to 2021.”\n"
+                        " Ian Harrabin, Chairman of the Historic Coventry Trust, said that the grant was a very significant investment by the Heritage Lottery Fund, recognising both the national importance of the site and also the impact that it could have on the community.\n"
+                        "“It has been a long road over the past six years with a huge effort from the Council and local community alongside our volunteer trustees and team of consultants. It is very exciting news and also a huge relief that we are now so close to starting the project,” he said.\n"
+                        "“Although we still have some funding to raise, the generous support of the Heritage Lottery Fund means that the project is now almost certain to start at the end of this year. We will be calling on the local business community to help us reach the target.\n"
+                        "“The Charterhouse is nationally important because it is one of only two Carthusian Monasteries with significant remains in the UK and its wall paintings from the 15th and 16th centuries are considered to be some of our finest examples of medieval and Elizabethan art.\n"
+                        "“The Charterhouse lies at the core of the Heritage Park and is the Trust’s primary project.  We are already working on the next phases of the park with the aim of achieving the full 70 acres in time for 2021. The park \n"
+                        "will make a great venue for many of the year’s cultural events but also will become a perpetual legacy from the 2021 year for future generations.”\n"
+                        "Construction work is expected to start in January 2019.</string>
+
+
+
+
+
+</resources>
